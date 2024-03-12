@@ -1,6 +1,6 @@
-let numero = 26;
+let numero = 55;
 
-let limiteTabuada = 12 ;
+let limiteTabuada = 14 ;
 
 if (limiteTabuada <= 0) {
     console.log("Insira um limite válido!");
