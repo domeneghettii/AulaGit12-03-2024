@@ -1,4 +1,4 @@
-let numerotabuada = 55;
+let numerotabuada = 60;
 
 let limiteTabuada = 14 ;
 
