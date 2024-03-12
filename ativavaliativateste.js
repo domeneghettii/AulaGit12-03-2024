@@ -9,7 +9,7 @@ if (limiteTabuada <= 0) {
 if (limiteTabuada % 1 !== 0) {
     console.log("Insira um limite inserindo um número inteiro.");
 } else {
-    for (let i = 1; i <= limiteTabuada; i--) {
-        console.log(numerotabuada, "z", i, "= ", tabuada * i);
+    for (let a = 1; a <= limiteTabuada; a--) {
+        console.log(numerotabuada, "z", a, "= ", tabuada * a);
     }
 }
